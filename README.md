@@ -1,6 +1,6 @@
 # Pipe Network Guardian
 
-Pipe Network | The decentralized CDN redefining data delivery 🌍 | Faster bandwidth, lower latency ⚡ | Built on @Solana [https://pipecdn.app](https://pipecdn.app/signup?ref=bml1YWdyb0)
+Pipe Network | The decentralized CDN redefining data delivery 🌍 | Faster bandwidth, lower latency ⚡ | Built on @Solana [https://pipecdn.app](https://pipecdn.app/signup?ref=bWFsbGlja2)
 Pipe Network is taking decentralized content delivery to the next level with a two-tier node system that ensures high performance and reliability. PoP Nodes and Guardian Nodes. 🖥️📊
 
 ## and what we running here is Guardian Nodes📊
@@ -57,4 +57,5 @@ With these insights, they can reroute traffic dynamically to avoid bottlenecks, 
    - you need login after you register accounts to get your access token.
    - choose 2 to login to account.
    - finally choose 3 to to run the bot.
-     ![banner](image.png)
+     ![banner]![Screenshot 2024-12-19 103752](https://github.com/user-attachments/assets/679a517c-df01-469d-aee5-efbf9701df82)
+
