@@ -33,8 +33,8 @@ With these insights, they can reroute traffic dynamically to avoid bottlenecks, 
 
 ## File Structure
 
-- **account.json** it save your account info like email and password
-- **proxy.txt** to store proxy you want to use, each line for 1 proxy `http://username:pass@ip:port`
+- **nano account.json** it save your account info like email and password
+- **nano proxy.txt** to store proxy you want to use, each line for 1 proxy `http://username:pass@ip:port`
 - **token.json** it save access token after you login
 
 ## Setup
